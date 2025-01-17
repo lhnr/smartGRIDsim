@@ -1,3 +1,3 @@
 # smartGRIDsim
 Uso do NS-3
-Acesse o Alex Trajano smartgridsim
+Acesse o Alexandre do CE
